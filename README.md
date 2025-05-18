@@ -1,5 +1,5 @@
 # rs-REVISION-PACKS
-An easy code to study GCSERSs
+An easy code to study GCSE RS
 ## How to use?
 1. Download [Python](https://www.python.org/downloads/release/python-3133/) (if you haven't).
 2. Download the [code](https://github.com/user-attachments/files/20272697/rs.revision.pack.zip)
