@@ -1,5 +1,6 @@
-#End of support notification:
+# End of support notification:
 Guys, I have to focus more on my GCSE, so I stopped maintaining it.
+
 # rs-REVISION-PACKS
 An easy code to study GCSE RS
 ## How to use?
